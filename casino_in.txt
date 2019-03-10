@@ -1,0 +1,8 @@
+# number of states	number of emissions	sequence length
+2	6	200
+# transition matrix. 0 is fair, 1 is unfair
+0.95	0.05
+0.1	0.9
+# emission matrix. First row is fair, second is loaded
+0.166666666666667	0.166666666666667	0.166666666666667	0.166666666666667	0.166666666666667	0.166666666666667
+0.1	0.1	0.1	0.1	0.1	0.5
