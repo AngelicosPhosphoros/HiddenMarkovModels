@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 generated_path.txt
 viterbi.txt
+casino_viterbi.txt
+generated_casino_path.txt
